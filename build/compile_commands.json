@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/qoldprototype/Test/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qoldprototype/Test/build/MyQtProject_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/MyQtProject.dir/MyQtProject_autogen/mocs_compilation.cpp.o -c /home/qoldprototype/Test/build/MyQtProject_autogen/mocs_compilation.cpp",
+  "file": "/home/qoldprototype/Test/build/MyQtProject_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/qoldprototype/Test/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qoldprototype/Test/build/MyQtProject_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/MyQtProject.dir/main.cpp.o -c /home/qoldprototype/Test/main.cpp",
+  "file": "/home/qoldprototype/Test/main.cpp"
+},
+{
+  "directory": "/home/qoldprototype/Test/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qoldprototype/Test/build/MyQtProject_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/MyQtProject.dir/mainwindow.cpp.o -c /home/qoldprototype/Test/mainwindow.cpp",
+  "file": "/home/qoldprototype/Test/mainwindow.cpp"
+},
+{
+  "directory": "/home/qoldprototype/Test/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/qoldprototype/Test/build/MyQtProject_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++11 -o CMakeFiles/MyQtProject.dir/controllerTest/QoldControl.cpp.o -c /home/qoldprototype/Test/controllerTest/QoldControl.cpp",
+  "file": "/home/qoldprototype/Test/controllerTest/QoldControl.cpp"
+}
+]

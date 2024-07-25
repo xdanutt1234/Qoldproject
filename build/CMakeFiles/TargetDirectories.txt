@@ -1,0 +1,5 @@
+/home/qoldprototype/Test/build/CMakeFiles/MyQtProject.dir
+/home/qoldprototype/Test/build/CMakeFiles/edit_cache.dir
+/home/qoldprototype/Test/build/CMakeFiles/rebuild_cache.dir
+/home/qoldprototype/Test/build/CMakeFiles/MyQtProject_autogen_timestamp_deps.dir
+/home/qoldprototype/Test/build/CMakeFiles/MyQtProject_autogen.dir
